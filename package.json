@@ -23,7 +23,7 @@
     "lint:fix": "next lint --fix"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^3.0.33",
+    "@ai-sdk/openai": "^3.0.39",
     "@auth/prisma-adapter": "^2.11.1",
     "@prisma/adapter-pg": "^7.4.1",
     "@prisma/client": "^7.4.1",
